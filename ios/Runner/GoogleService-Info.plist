@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>257216613279-51vnilb85a5gqubrecu2cb8g1pns04q1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.257216613279-51vnilb85a5gqubrecu2cb8g1pns04q1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>257216613279-088garlk1968b3ntgd8qqih3vhpht0bh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcCssWYyhhORIX9fKIVwe_WfaZegStGyA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>257216613279</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iwish.sa</string>
+	<key>PROJECT_ID</key>
+	<string>iwishapp-2b9df</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iwishapp-2b9df.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:257216613279:ios:d0a98743a940f26d974baa</string>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iWish</string>
+    <string name="facebook_app_id">2170421363261578</string>
+    <string name="fb_login_protocol_scheme">fb2170421363261578</string>
+    <string name="facebook_client_token">01d99a3617a68d446391e6fd6e747e1b</string>
+</resources>

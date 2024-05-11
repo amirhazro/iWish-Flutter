@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "257216613279",
+    "project_id": "iwishapp-2b9df",
+    "storage_bucket": "iwishapp-2b9df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257216613279:android:5e055c0703e65ea5974baa",
+        "android_client_info": {
+          "package_name": "com.app.iwish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257216613279-088garlk1968b3ntgd8qqih3vhpht0bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.iwish",
+            "certificate_hash": "b41e739fd9eddc55b2ce0fc824dbba3ff69f92ca"
+          }
+        },
+        {
+          "client_id": "257216613279-m3sbiau9a57kpsqniighqrctp8rnj0j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM_ODD18W_cknKWlFK86xiC5BleUFI3V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257216613279-97fojsm6esqr3lgiktnohmjrgham8n0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257216613279-51vnilb85a5gqubrecu2cb8g1pns04q1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iwish.sa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
